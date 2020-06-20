@@ -65,7 +65,6 @@ Atualiza apenas alguns dados do veículo
 
 Apaga o veículo
 
-
 ## Missão frontend
 
 Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pasta [layout](https://github.com/marcoaure/teste-fullstack/tree/master/layout)
